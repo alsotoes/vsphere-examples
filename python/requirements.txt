@@ -1,0 +1,5 @@
+argparse==1.2.2
+pyvmomi==5.5.0.2014.1.1
+requests==2.4.3
+simplejson==3.6.5
+six==1.8.0
